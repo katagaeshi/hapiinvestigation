@@ -1,0 +1,20 @@
+{
+  "name": "hapiserver",
+  "version": "1.0.0",
+  "description": "hapi server investigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/good": "^8.2.1",
+    "@hapi/good-console": "^8.1.1",
+    "@hapi/good-squeeze": "^5.2.1",
+    "@hapi/hapi": "^18.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2"
+  }
+}
